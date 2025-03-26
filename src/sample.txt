@@ -1,0 +1,1 @@
+const uri="mongodb+srv://anvarshaanvar576:V4IKIcGJ9K6BghPo@myapp.lsyjy.mongodb.net/"
